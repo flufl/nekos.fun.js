@@ -19,7 +19,9 @@
     "hentai",
     "anime",
     "sfw",
-    "nekos.fun"
+    "nekos.fun",
+    "api",
+    "wrapper"
   ],
   "author": "Fuwafuwa",
   "license": "MIT",
