@@ -1,6 +1,6 @@
 {
   "name": "nekos-fun",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Unofficial wrapper for nekos.fun API. Provides SFW and NSFW, Anime and Real Life Images and GIFs.",
   "main": "index.js",
   "types": "./typings/index.d.ts",
