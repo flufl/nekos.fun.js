@@ -1,0 +1,32 @@
+{
+  "name": "nekos-fun",
+  "version": "1.0.0",
+  "description": "Unofficial wrapper for nekos.fun API. Provides SFW and NSFW, Anime and Real Life Images and GIFs.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flufl/nekos.fun.ts.git"
+  },
+  "keywords": [
+    "nsfw",
+    "hentai",
+    "anime",
+    "sfw",
+    "nekos.fun"
+  ],
+  "author": "Fuwafuwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flufl/nekos.fun.ts/issues"
+  },
+  "homepage": "https://github.com/flufl/nekos.fun.ts#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
