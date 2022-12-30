@@ -3,7 +3,7 @@ Unofficial API wrapper for nekos.fun made in JavaScript. Provide SFW and NSFW an
 
 All Endpoints: https://www.nekos.fun/apidoc.html
 
-API discord server: https://discord.gg/UeZagdFVXh
+API discord server: https://discord.gg/UeZagdFVXh <br>
 My discord server: https://discord.gg/NFkMxFeEWr
 ## Installation
 ``npm i nekos-fun``
